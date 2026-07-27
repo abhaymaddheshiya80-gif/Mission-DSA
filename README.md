@@ -7,6 +7,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0008-string-to-integer-atoi) |
+| [2390-removing-stars-from-a-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -21,4 +22,12 @@ DSA practice problem
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
