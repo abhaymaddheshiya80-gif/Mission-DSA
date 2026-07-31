@@ -9,6 +9,7 @@ DSA practice problem
 | [0008-string-to-integer-atoi](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0008-string-to-integer-atoi) |
 | [2390-removing-stars-from-a-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -55,4 +57,13 @@ DSA practice problem
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
