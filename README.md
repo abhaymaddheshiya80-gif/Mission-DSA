@@ -78,10 +78,15 @@ DSA practice problem
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
