@@ -16,6 +16,7 @@ DSA practice problem
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -31,6 +32,7 @@ DSA practice problem
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +77,7 @@ DSA practice problem
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -85,8 +88,17 @@ DSA practice problem
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0206-reverse-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
