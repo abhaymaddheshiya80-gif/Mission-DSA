@@ -101,4 +101,16 @@ DSA practice problem
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
