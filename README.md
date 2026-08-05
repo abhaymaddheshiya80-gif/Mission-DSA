@@ -51,10 +51,12 @@ DSA practice problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
+| [3310-remove-methods-from-project](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -113,4 +115,8 @@ DSA practice problem
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0933-number-of-recent-calls) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
