@@ -39,6 +39,7 @@ DSA practice problem
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -110,10 +111,12 @@ DSA practice problem
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
