@@ -18,6 +18,7 @@ DSA practice problem
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -36,6 +37,7 @@ DSA practice problem
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
@@ -86,6 +88,7 @@ DSA practice problem
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -98,6 +101,7 @@ DSA practice problem
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
@@ -106,10 +110,12 @@ DSA practice problem
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 ## Design
 |  |
@@ -145,4 +151,8 @@ DSA practice problem
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
