@@ -29,6 +29,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -41,6 +42,7 @@ DSA practice problem
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
 |  |
@@ -171,4 +173,8 @@ DSA practice problem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1510-stone-game-iv) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
