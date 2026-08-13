@@ -8,6 +8,7 @@ DSA practice problem
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -44,6 +45,7 @@ DSA practice problem
 | [1140-stone-game-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
@@ -190,4 +192,12 @@ DSA practice problem
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
