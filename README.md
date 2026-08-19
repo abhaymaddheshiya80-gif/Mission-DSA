@@ -42,6 +42,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
+| [0622-design-circular-queue](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
@@ -135,6 +136,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0622-design-circular-queue) |
 ## Minimax
 |  |
 | ------- |
@@ -153,11 +155,13 @@ DSA practice problem
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
