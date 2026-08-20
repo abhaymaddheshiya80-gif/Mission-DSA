@@ -18,11 +18,11 @@ public:
         }
        }
        vector<int>ans;
-       for(auto x:arr1)
+       for(int x:arr1)
        {
           ans.push_back(x);
        }
-       for(auto x:arr2)
+       for(int x:arr2)
        {
           ans.push_back(x);
        }
