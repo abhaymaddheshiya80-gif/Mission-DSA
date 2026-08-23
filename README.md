@@ -8,6 +8,7 @@ DSA practice problem
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1927-sum-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -25,6 +26,7 @@ DSA practice problem
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -95,6 +97,7 @@ DSA practice problem
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -139,6 +142,7 @@ DSA practice problem
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
