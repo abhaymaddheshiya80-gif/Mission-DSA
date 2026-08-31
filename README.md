@@ -165,6 +165,7 @@ DSA practice problem
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0622-design-circular-queue) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Minimax
 |  |
 | ------- |
