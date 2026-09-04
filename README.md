@@ -52,6 +52,7 @@ DSA practice problem
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0046-permutations) |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -219,6 +220,7 @@ DSA practice problem
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0046-permutations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
