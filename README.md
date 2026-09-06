@@ -97,21 +97,25 @@ DSA practice problem
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [3310-remove-methods-from-project](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [3310-remove-methods-from-project](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 ## Greedy
 |  |
 | ------- |
