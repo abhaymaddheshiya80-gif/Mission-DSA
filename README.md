@@ -49,6 +49,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -108,6 +109,7 @@ DSA practice problem
 | [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -115,6 +117,7 @@ DSA practice problem
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -123,6 +126,7 @@ DSA practice problem
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -132,6 +136,7 @@ DSA practice problem
 | [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
@@ -149,6 +154,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
