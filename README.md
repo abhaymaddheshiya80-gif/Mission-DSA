@@ -116,6 +116,7 @@ DSA practice problem
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -126,6 +127,7 @@ DSA practice problem
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -136,6 +138,7 @@ DSA practice problem
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -145,6 +148,7 @@ DSA practice problem
 | [0100-same-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
