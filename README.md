@@ -11,6 +11,7 @@ DSA practice problem
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0940-distinct-subsequences-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1927-sum-game) |
@@ -114,6 +115,7 @@ DSA practice problem
 | [0225-implement-stack-using-queues](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -388,4 +390,8 @@ DSA practice problem
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
