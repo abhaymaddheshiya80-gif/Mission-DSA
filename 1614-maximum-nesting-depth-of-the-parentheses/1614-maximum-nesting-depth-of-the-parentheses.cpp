@@ -6,15 +6,13 @@ public:
         int maxi=INT_MIN;
         for(int i=0;i<n;i++)
         {
-           if(s[i]=='(')
-           {
-            count++;
-           }
-           maxi=max(maxi,count);
-           if(s[i]==')')
-           {
-            count--;
-           }
+            if(s[i]=='('){
+                count++;
+            }
+            maxi=max(maxi,count);
+            if(s[i]==')'){
+                count--;
+            }
         }
         return maxi;
     }
