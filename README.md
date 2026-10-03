@@ -9,6 +9,7 @@ DSA practice problem
 | [0008-string-to-integer-atoi](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0115-distinct-subsequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0940-distinct-subsequences-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -118,6 +119,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1096-brace-expansion-ii) |
@@ -220,6 +222,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
@@ -407,6 +410,7 @@ DSA practice problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
