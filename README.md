@@ -21,6 +21,7 @@ DSA practice problem
 | [1108-defanging-an-ip-address](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1370-increasing-decreasing-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -209,6 +210,7 @@ DSA practice problem
 | [0804-unique-morse-code-words](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0804-unique-morse-code-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1096-brace-expansion-ii) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1370-increasing-decreasing-string) |
 | [1386-cinema-seat-allocation](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -227,6 +229,7 @@ DSA practice problem
 ## Counting
 |  |
 | ------- |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1370-increasing-decreasing-string) |
 | [2029-stone-game-ix](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
