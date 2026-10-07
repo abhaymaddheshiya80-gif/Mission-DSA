@@ -11,6 +11,7 @@ DSA practice problem
 | [0022-generate-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -175,6 +176,7 @@ DSA practice problem
 | [0101-symmetric-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3310-remove-methods-from-project) |
@@ -331,6 +333,7 @@ DSA practice problem
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
