@@ -96,6 +96,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0046-permutations](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0046-permutations) |
+| [0322-coin-change](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -199,6 +200,7 @@ DSA practice problem
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3310-remove-methods-from-project) |
@@ -275,6 +277,7 @@ DSA practice problem
 | [0022-generate-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0115-distinct-subsequences) |
+| [0322-coin-change](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
@@ -501,4 +504,12 @@ DSA practice problem
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
