@@ -23,6 +23,7 @@ DSA practice problem
 | [1096-brace-expansion-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1370-increasing-decreasing-string) |
@@ -287,6 +288,7 @@ DSA practice problem
 | [0877-stone-game](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1510-stone-game-iv) |
@@ -518,4 +520,8 @@ DSA practice problem
 | ------- |
 | [0322-coin-change](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
