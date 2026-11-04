@@ -17,3 +17,23 @@ public:
        return dp[m][n];
     }
 };
+
+// class Solution {
+// public:
+//      int rec(int i,int j,string text1,string text2){
+//         if(i==text1.size()||j==text2.size()){
+//             return 0;
+//         }
+//         if(text1[i]==text2[j]){
+//             return 1+rec(i+1,j+1,text1,text2);
+//         }
+//         else{
+//             return max(rec(i+1,j,text1,text2),rec(i,j+1,text1,text2));
+//         }
+//      }
+//     int longestCommonSubsequence(string text1, string text2) {
+//        int m=text1.size();
+//        int n=text2.size();
+//       return rec(0,0,text1,text2);
+//     }
+// };
