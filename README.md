@@ -98,6 +98,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0046-permutations](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0046-permutations) |
+| [0128-longest-consecutive-sequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0518-coin-change-ii) |
@@ -244,6 +245,7 @@ DSA practice problem
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0804-unique-morse-code-words](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0804-unique-morse-code-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -466,6 +468,7 @@ DSA practice problem
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
