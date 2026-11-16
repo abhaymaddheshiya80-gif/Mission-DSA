@@ -2,12 +2,10 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         set<int>st;
-        set<int>st2;
         st.insert(nums.begin(),nums.end());
         int ans=0;
         for(int n:st){
-            if(st.find(n-1)==st.end()&& st2.find(n)==st2.end()){
-                st2.insert(n);
+            if(st.find(n-1)==st.end()){
                 int num=n;
                 int count=1;
                  while(st.find(num+1)!=st.end()){
