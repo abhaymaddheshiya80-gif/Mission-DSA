@@ -79,6 +79,7 @@ DSA practice problem
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1096-brace-expansion-ii) |
@@ -98,6 +99,7 @@ DSA practice problem
 |  |
 | ------- |
 | [0046-permutations](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0486-predict-the-winner) |
@@ -387,6 +389,7 @@ DSA practice problem
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0344-reverse-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -527,4 +530,12 @@ DSA practice problem
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/1143-longest-common-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhaymaddheshiya80-gif/Mission-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
